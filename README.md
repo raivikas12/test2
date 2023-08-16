@@ -7,7 +7,7 @@ An issue tracker with issue comments, public issues and a Kanban board view.
 ## Important Links
 
 - [Hosted Site](https://sidhantmathur.github.io/issue-tracker-client/)
-- [API Repo](https://raivikas12.github.io/test2/)
+- [API Repo](https://github.com/raivikas12)
 - [Heroku Hosted API](https://afternoon-beach-76578.herokuapp.com/)
 
 ## Development Plan
